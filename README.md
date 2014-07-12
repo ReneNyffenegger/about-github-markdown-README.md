@@ -8,7 +8,8 @@
 
 Normal text:
 
-Normal text can use *stars* and _underscores_ and *_both_* to format it.
+Normal text can use *stars* and _underscores_ and *_both_* (yet, both are rendered as italics).
+With **double stars**, the text turns bold, with **_double stars and an underscore_** it turns bold and italic.
 
 And then, there are also [links](https://raw.githubusercontent.com/ReneNyffenegger/about-README.md/master/README.md).
 
