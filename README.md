@@ -10,8 +10,11 @@ Normal text:
 
 Normal text can use *stars* and _underscores_ and *_both_* to format it.
 
+And then, there are also [links](https://raw.githubusercontent.com/ReneNyffenegger/about-README.md/master/README.md).
+
     This seems to be like code.
 
     It needs at least for whitespaces
     at a line's beginning
+
 
