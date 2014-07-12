@@ -20,6 +20,8 @@ Normal urls (such as www.github.com) are rendered as links as well.
     It needs at least for whitespaces
     at a line's beginning
 
+A table. Note the rigth and left alignment (by means of the *colons*):
+
 |number|english|german |
 |-----:|:------|:------|
 |     1|one    |eins   |
