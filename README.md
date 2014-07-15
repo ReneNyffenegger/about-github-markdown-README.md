@@ -36,3 +36,11 @@ A table. Note the rigth and left alignment (by means of the *colons*):
 |    10|ten    |zehn   |
 |    20|twenty |zwanzig|
 |   100|hundred|hundert|
+
+# Links in code
+
+     function FooBar(a, b) {
+
+        return a + b;  // [github](www.github.com)
+
+     }
