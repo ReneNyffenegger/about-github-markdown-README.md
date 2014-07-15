@@ -39,6 +39,8 @@ A table. Note the rigth and left alignment (by means of the *colons*):
 
 # Links in code
 
+Links in code don't work:
+
      function FooBar(a, b) {
 
         return a + b;  // [github](www.github.com)
