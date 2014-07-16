@@ -51,3 +51,8 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 ---
 
+Links
+=====
+
+- [Markdown live demo](http://markdown-here.com/livedemo.html)
+- [Adam Pritchard's markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
