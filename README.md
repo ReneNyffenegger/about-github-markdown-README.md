@@ -19,7 +19,7 @@ With **double stars** (`**text**`), the text turns bold, with **_double stars an
 Text between ~~two tildes~~ (`~~text~~`) is stroken through. This is text `enclosed in back-ticks` (`` `text` ``).
 
 And then, there are also [links](https://raw.githubusercontent.com/ReneNyffenegger/about-README.md/master/README.md).
-Normal urls (such as www.github.com) are rendered as links as well.
+Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) are rendered as links as well.
 
     This seems to be like code.
 
@@ -46,3 +46,8 @@ Links in code don't work:
         return a + b;  // [github](www.github.com)
 
      }
+
+Three stars `***`, underscores `___` or hyphens `---` produce a
+
+---
+
