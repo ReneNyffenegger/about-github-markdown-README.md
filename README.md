@@ -16,7 +16,7 @@ Normal text:
 
 Normal text can use *stars* (`*text*`) and _underscores_ (`_text_`) and *_both_* (`*_text_*`), yet, both are rendered as italics.
 With **double stars** (`**text**`), the text turns bold, with **_double stars and an underscore_** (`**_text_**`) it turns bold and italic.
-Text between ~~two tildes~~ (`~~text~~`) is stroken through. This is text `enclosed in back-ticks` (``\`text\```).
+Text between ~~two tildes~~ (`~~text~~`) is stroken through. This is text `enclosed in back-ticks` (`` `text` ``).
 
 And then, there are also [links](https://raw.githubusercontent.com/ReneNyffenegger/about-README.md/master/README.md).
 Normal urls (such as www.github.com) are rendered as links as well.
