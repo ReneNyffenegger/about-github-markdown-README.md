@@ -51,6 +51,8 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 ---
 
+<font style="color:red">Some red text</font>
+
 Links
 =====
 
