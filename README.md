@@ -52,6 +52,7 @@ Links in code don't work:
   - first sub item of second item<br>
     additional text for first sub item of second item
   - second sub item of second item
+    additional text for second sub item of second item
 - third item
     
 
