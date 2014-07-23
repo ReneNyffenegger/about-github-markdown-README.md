@@ -50,9 +50,9 @@ Links in code don't work:
 - First item of a list
 - Second item of a list
   - first sub item of second item<br>
-    additional text for first sub item of second item *Note the `<br>`* here
+    additional text for first sub item of second item *Note the `<br>` here.*
   - second sub item of second item
-    additional text for second sub item of second item *Note the lack of a `<br>` here.
+    additional text for second sub item of second item *Note the lack of a `<br>` here.*
 - third item
     
 
