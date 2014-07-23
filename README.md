@@ -47,6 +47,14 @@ Links in code don't work:
 
      }
 
+- First item of a list
+- Second item of a list
+  - first sub item of second item<br>
+    additional text for first sub item of second item
+  - second sub item of second item
+- third item
+    
+
 Three stars `***`, underscores `___` or hyphens `---` produce a
 
 ---
