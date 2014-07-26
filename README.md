@@ -37,7 +37,7 @@ A table. Note the rigth and left alignment (by means of the *colons*):
 |    20|twenty |zwanzig|
 |   100|hundred|hundert|
 
-# Links in code
+# Links in Code
 
 Links in code don't work:
 
@@ -46,6 +46,8 @@ Links in code don't work:
         return a + b;  // [github](www.github.com)
 
      }
+
+# Lists
 
 - First item of a list
 - Second item of a list
@@ -56,14 +58,17 @@ Links in code don't work:
 - third item
     
 
+# Horizontal Lines
+
 Three stars `***`, underscores `___` or hyphens `---` produce a
 
 ---
 
+# Misc
+
 <font style="color:red">Some red text (doesn't work)</font>
 
-Links
-=====
+# Links
 
 - [Markdown live demo](http://markdown-here.com/livedemo.html)
 - [Adam Pritchard's markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
