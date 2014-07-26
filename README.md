@@ -50,7 +50,7 @@ They work with the `<pre>` tag, however:
 
 <pre>
 function FooBar(a, b) {
-   return a + b;  // <a href='www.github.com'>github</a>
+   return a + b;  // <a href='http://www.github.com'>github</a>
 }
 </pre>
 
