@@ -39,13 +39,14 @@ A table. Note the rigth and left alignment (by means of the *colons*):
 
 # Links in Code
 
-Links in code don't work:
+Links in *indented* code don't work:
 
      function FooBar(a, b) {
-
         return a + b;  // [github](www.github.com)
-
      }
+
+
+They work with the `&lt;pre&gt;` tag, however:
 
 <pre>
 function FooBar(a, b) {
