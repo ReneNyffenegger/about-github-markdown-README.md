@@ -47,6 +47,12 @@ Links in code don't work:
 
      }
 
+<pre>
+function FooBar(a, b) {
+   return a + b;  // <a href='www.github.com'>github</a>
+}
+</pre>
+
 # Lists
 
 - First item of a list
