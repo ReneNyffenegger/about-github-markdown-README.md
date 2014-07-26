@@ -46,7 +46,7 @@ Links in *indented* code don't work:
      }
 
 
-They work with the `&lt;pre&gt;` tag, however:
+They work with the `<pre>` tag, however:
 
 <pre>
 function FooBar(a, b) {
