@@ -23,7 +23,7 @@ Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 
     This seems to be like code.
 
-    It needs at least for whitespaces
+    It needs at least four whitespaces
     at a line's beginning
 
 A table. Note the rigth and left alignment (by means of the *colons*):
