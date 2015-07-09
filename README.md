@@ -1,3 +1,5 @@
+$('#readme').insertBefore('.file-navigation'); <!-- http://webapps.stackexchange.com/a/80064/97558 -->
+
 # Heading with one hash
 
 ## Heading with two hashes
