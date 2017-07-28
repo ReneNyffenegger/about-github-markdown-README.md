@@ -30,7 +30,7 @@ Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 
 I wonder, if the following line is
     rendered like code()
-as well?
+as well? (**It turns out, it's not!**)
 
 A table. Note the rigth and left alignment (by means of the *colons*):
 
