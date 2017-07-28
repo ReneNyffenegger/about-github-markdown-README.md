@@ -28,6 +28,10 @@ Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
     It needs at least four whitespaces
     at a line's beginning
 
+I wonder, if the following line is
+    rendered like code()
+as well?
+
 A table. Note the rigth and left alignment (by means of the *colons*):
 
 |number|english|german |
