@@ -29,8 +29,12 @@ Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
     at a line's beginning
 
 I wonder, if the following line is
-    rendered like code()
+`rendered like code()`
 as well? (**It turns out, it's not!**)
+
+But the following line is:<br>
+`rendered like code()`<br>
+is it not?
 
 A table. Note the rigth and left alignment (by means of the *colons*):
 
