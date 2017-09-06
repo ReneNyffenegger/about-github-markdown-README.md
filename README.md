@@ -25,8 +25,8 @@ Normal urls (such as https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 
     This seems to be like code.
 
-    It needs at least four whitespaces
-    at a line's beginning
+    Text that is indented by at least four whitespaces
+    is rendered like code.
 
 I wonder, if the following line is
 `rendered like code()`
@@ -36,7 +36,7 @@ But the following line is:<br>
 `rendered like code()`<br>
 is it not?
 
-A table. Note the rigth and left alignment (by means of the *colons*):
+A table. Note the *right and left alignment* (by means of the *colons*):
 
 |number|english|german |
 |-----:|:------|:------|
@@ -66,6 +66,8 @@ function FooBar(a, b) {
 
 # Lists
 
+## Unordered (dotted) lists
+
 - First item of a list
 - Second item of a list
   - first sub item of second item<br>
@@ -74,6 +76,24 @@ function FooBar(a, b) {
     additional text for second sub item of second item *Note the lack of a `<br>` here.*
 - third item
     
+## Numbered lists
+
+Numbered lists can be produced 
+
+1. The first item
+
+   Some text that belongs to the first item.
+
+1. Item number two
+
+   Text that belongs to the second item.
+
+   More text that belongs to the second item.
+
+1. **Third item**
+
+   The numbered *headings* can even be rendered in
+   bold using two stars (`**`)
 
 # Horizontal Lines
 
