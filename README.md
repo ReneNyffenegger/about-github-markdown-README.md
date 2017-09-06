@@ -90,6 +90,18 @@ Numbered lists can be produced
 
    More text that belongs to the second item.
 
+   1. foo
+   
+      This is foo
+
+   1. bar
+   
+      This is bar
+
+   1. baz
+   
+      This is baz
+
 1. **Third item**
 
    The numbered *headings* can even be rendered in
