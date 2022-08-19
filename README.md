@@ -106,6 +106,11 @@ Numbered lists can be produced
 
    The numbered *headings* can even be rendered in
    bold using two stars (`**`)
+
+# Images
+
+  Images can be embedded with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
+  ![Heading filter](img/headings.png)
    
 # Subscript and superscript
 
