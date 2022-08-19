@@ -106,6 +106,10 @@ Numbered lists can be produced
 
    The numbered *headings* can even be rendered in
    bold using two stars (`**`)
+   
+# Subscript and superscript
+
+  `<sub>text</sub>` and `<sup>text</sup>` produce <sub>subscript</sub> and <sup>superscript</sup> text.
 
 # Horizontal Lines
 
