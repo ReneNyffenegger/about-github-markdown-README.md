@@ -117,6 +117,7 @@ Numbered lists can be produced
 # Images
 
   Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
+
   ![Heading filter](img/headings.png)
    
 # Subscript and superscript
