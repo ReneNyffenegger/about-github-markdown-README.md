@@ -2,9 +2,15 @@
 
 # Heading with one hash
 
+  A line that starts with one through six hash symbols (`#`) indicates a heading.
+
 ## Heading with two hashes
+  
+  Headings are automatically given a HTML-name (anchor) with lowercase letters and spaces replaced with dashes. The previous heading's name thus is `#heading-with-two-hashes`.
 
 ### Heading with three hashes
+
+  The headings of the `README.md` files are shown when clicking on the upper left box of the 'document' (see [this image](#images)).
 
 #### Four hashes
 
@@ -14,7 +20,8 @@
 
 ####### Seven hashes
 
-Normal text:
+
+# Normal text:
 
 Normal text can use *stars* (`*text*`) and _underscores_ (`_text_`) and *_both_* (`*_text_*`), yet, both are rendered as italics.
 With **double stars** (`**text**`), the text turns bold, with **_double stars and an underscore_** (`**_text_**`) it turns bold and italic.
@@ -109,7 +116,7 @@ Numbered lists can be produced
 
 # Images
 
-  Images can be embedded with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
+  Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
   ![Heading filter](img/headings.png)
    
 # Subscript and superscript
