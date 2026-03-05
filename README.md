@@ -43,6 +43,8 @@ But the following line is:<br>
 `rendered like code()`<br>
 is it not?
 
+## Tables
+
 A table. Note the *right and left alignment* (by means of the *colons*):
 
 |number|english|german |
@@ -53,6 +55,15 @@ A table. Note the *right and left alignment* (by means of the *colons*):
 |    10|ten    |zehn   |
 |    20|twenty |zwanzig|
 |   100|hundred|hundert|
+
+
+## Line breaks
+
+A line can be ended\
+with a backslash\
+which inserts a\
+line break.
+
 
 # Links in Code
 
