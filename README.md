@@ -131,6 +131,24 @@ Numbered lists can be produced
 
   ![Heading filter](img/headings.png)
    
+# Foldable sections
+
+Foldable sections can be created with `<details><summary>‥</summary>‥</details>`.
+
+<details><summary>Section 1</summary>
+The details for *section one* include
+- foo
+- bar
+- baz
+</details>
+
+<details><summary>Section 2</summary>
+The details for *section two* include
+- X,
+- Y and
+- Z.
+</details>
+
 # Subscript and superscript
 
   `<sub>text</sub>` and `<sup>text</sup>` produce <sub>subscript</sub> and <sup>superscript</sup> text.
