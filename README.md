@@ -139,16 +139,20 @@ Foldable sections can be created with `<details><summary>‥</summary>‥</detai
 
 <details><summary>Section 1</summary>
 The details for *section one* include
+
 - foo
 - bar
 - baz
+
 </details>
 
 <details><summary>Section 2</summary>
 The details for *section two* include
+
 - X,
 - Y and
 - Z.
+
 </details>
 
 # Subscript and superscript
