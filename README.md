@@ -165,11 +165,29 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 ---
 
-# Misc
+# CSS Style color
 
 <font style="color:red">Some red text (doesn't work)</font>
+
+# Advices
+
+[!NOTE]
+Text of the *note*.
+
+[!TIP]
+Text of the *tip*.
+
+[!IMPORTANT]
+Really serious stuff.
+
+[!WARNING]
+Less serious stuff.
+
+[!WARNING]
+You've been warned.
 
 # Links
 
 - [Markdown live demo](http://markdown-here.com/livedemo.html)
 - [Adam Pritchard's markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
