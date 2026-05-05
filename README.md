@@ -171,20 +171,20 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 # Advices
 
-[!NOTE]
-Text of the *note*.
+> [!NOTE]
+> Text of the *note*.
 
-[!TIP]
-Text of the *tip*.
+> [!TIP]
+> Text of the *tip*.
 
-[!IMPORTANT]
-Really serious stuff.
+> [!IMPORTANT]
+> Really serious stuff.
 
-[!WARNING]
-Less serious stuff.
+> [!WARNING]
+> Less serious stuff.
 
-[!WARNING]
-You've been warned.
+> [!CAUTION]
+> You've been warned.
 
 # Links
 
