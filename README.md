@@ -169,7 +169,7 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 <font style="color:red">Some red text (doesn't work)</font>
 
-# Advices
+# Admonitions
 
 > [!NOTE]
 > Text of the *note*.
