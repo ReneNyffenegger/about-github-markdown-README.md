@@ -84,7 +84,9 @@ function FooBar(a, b) {
 
 # Lists
 
-## Unordered (dotted) lists
+## Unordered lists
+
+Items of *unordered* (dotted) lists can be produced by prefixing the items with a dash (`-`).
 
 - First item of a list
 - Second item of a list
@@ -98,7 +100,7 @@ function FooBar(a, b) {
     
 ## Numbered lists
 
-Numbered lists can be produced 
+Items of *numbered* (ordered) lists can be produced by prefixing the items with `1.`
 
 1. The first item
 
