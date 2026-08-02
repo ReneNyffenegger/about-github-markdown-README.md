@@ -142,7 +142,7 @@ Foldable sections can be created with `<details><summary>‥</summary>‥</detai
 <details><summary>Section 1</summary>
 The details for *section one* include
 
-- foo
+- foof
 - bar
 - baz
 
@@ -169,9 +169,15 @@ Three stars `***`, underscores `___` or hyphens `---` produce a
 
 # CSS Style color
 
-<font style="color:red">Some red text (doesn't work)</font>
+`<font style="color:red>This text is not red</code>` does not work, as shown below:\
+<font style="color:red">This text is not red</font>
+
+However, colored text can be inserted with `${\color{red}\text{This text is red}}$`, unfortunately with a serif font:\
+${\color{red}\text{This text is red}}$
 
 # Admonitions
+
+Admonitions bring some colors into the text also.
 
 > [!NOTE]
 > Text of the *note*.
