@@ -129,6 +129,12 @@ Items of *numbered* (ordered) lists can be produced by prefixing the items with 
    The numbered *headings* can even be rendered in
    bold using two stars (`**`)
 
+## Task list
+
+- [x] Finished task
+- [ ] Open task
+- [ ] \(Paranthesis) must be escaped
+
 # Images
 
   Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
