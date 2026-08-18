@@ -135,6 +135,12 @@ Items of *numbered* (ordered) lists can be produced by prefixing the items with 
 - [ ] Open task
 - [ ] \(Paranthesis) must be escaped
 
+# Quoting text
+
+The documentation [states]([says](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)):
+> quotes can be inserted with leading &gt;
+
+
 # Images
 
   Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
