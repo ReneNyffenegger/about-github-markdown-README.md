@@ -140,6 +140,12 @@ Items of *numbered* (ordered) lists can be produced by prefixing the items with 
 The documentation [states]([says](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)):
 > quotes can be inserted with leading &gt;
 
+Its possible to have multiple levels
+> Level I
+>> Level II
+>>> Level III
+
+It seems that levels can only be increased, but not reduced.
 
 # Images
 
