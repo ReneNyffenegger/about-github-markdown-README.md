@@ -149,9 +149,14 @@ It seems that levels can only be increased, but not reduced.
 
 # Images
 
-  Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
+Images can be embedded and linked to with `![alt text](url)` while `url` can be a relative link within the repository, such as demonstrated below:
 
-  ![Heading filter](img/headings.png)
+![Heading filter](img/headings.png)
+
+## https://camo.githubusercontent.com/....
+
+The `src` attributes of images is [rewritten when markdown is rendered](https://github.blog/news-insights/the-library/sidejack-prevention-phase-3-ssl-proxied-assets/) to
+`https://camo.githubusercontent.com/<HMAC-digest-of-url>`. 
    
 # Foldable sections
 
