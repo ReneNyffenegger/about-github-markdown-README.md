@@ -20,7 +20,6 @@
 
 ####### Seven hashes
 
-
 # Normal text:
 
 Normal text can use *stars* (`*text*`) and _underscores_ (`_text_`) and *_both_* (`*_text_*`), yet, both are rendered as italics.
@@ -153,7 +152,7 @@ Images can be embedded and linked to with `![alt text](url)` while `url` can be 
 
 ![Heading filter](img/headings.png)
 
-## https://camo.githubusercontent.com/....
+## camo.githubusercontent.com/....
 
 The `src` attributes of images is [rewritten when markdown is rendered](https://github.blog/news-insights/the-library/sidejack-prevention-phase-3-ssl-proxied-assets/) to
 `https://camo.githubusercontent.com/<HMAC-digest-of-url>`. 
